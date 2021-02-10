@@ -1,0 +1,85 @@
+.imagem-card {
+    max-width: 18rem;
+}
+
+.borda-card {
+    border-color: darkorange;
+    box-shadow: 3px 3px 5px darkred;
+}
+
+.borda-card:hover {
+    border-color: #000;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 50% 10%;
+    height: 100vmin;
+}
+
+.carrossel-footer {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.fonte-subtitulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.fonte-receita {
+    font-family: 'Pacifico', cursive;
+}
+
+.fonte-subtitulo {
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.cor-titulo {
+    color: #FFFFFF;
+    text-shadow: #fff 0.1em 0.1em 0.1em
+}
+
+.cor-titulo:hover {
+    transition: 400ms;
+    transform: scale(1.1);
+}
+
+.cor-menus {
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 700;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.cor-menus:hover {
+    color: white;
+    text-decoration: underline;
+    text-shadow: black 0.2em 0.2em 0.5em
+}
+
+.cor-especial-receitas {
+    color: darkred;
+}
+
+.cor-botao {
+    background-color: orange;
+    color: white;
+    border: none;
+    transition: 1s all;
+}
+
+.cor-botao:hover {
+    transform: scale(1.1);
+    background-color: darkorange;
+    color: white;
+}
