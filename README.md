@@ -4,10 +4,10 @@ Site - Barbearia Alura - em Html5 e CSS3 * Site - Tio Receitas - Bootstrap | Htm
 
 ### 🌐 - Site da Barbearia Alura
   
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://luciancardoso.github.io/Projeto-CursoAlura-Site/Projeto-Barbearia/index.html)
+[![Network Tools](https://img.shields.io/badge/-🌐%20Barbearia%20Alura-000?)](https://luciancardoso.github.io/Projeto-CursoAlura-Site/Projeto-Barbearia/index.html)
 ![Alt Text](https://github.com/luciancardoso/Projeto-CursoAlura-Site/blob/main/Projeto-Barbearia/barbeariaalura.PNG)
 
 ### 🌐 - Site do Tio Receitas
 
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://luciancardoso.github.io/Projeto-CursoAlura-Site/tio%20Receitas/index.html)
+[![Network Tools](https://img.shields.io/badge/-🌐%20Tio%20Receitas-000?)](https://luciancardoso.github.io/Projeto-CursoAlura-Site/tio%20Receitas/index.html)
 ![Alt Text](https://github.com/luciancardoso/Projeto-CursoAlura-Site/blob/main/tio%20Receitas/tioreceitas.PNG)
