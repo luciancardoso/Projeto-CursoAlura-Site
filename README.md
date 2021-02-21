@@ -8,4 +8,4 @@ Site - Barbearia Alura - em Html5 e CSS3 * Site - Tio Receitas - Bootstrap | Htm
 
 <h3>🌐 - Site do Tio Receitas</<h3>
  
-![https://luciancardoso.github.io/Projeto-CursoAlura-Site/tio%20Receitas/index.html](https://github.com/luciancardoso/Projeto-CursoAlura-Site/blob/main/tio%20Receitas/tioreceitas.PNG)
+![(https://luciancardoso.github.io/Projeto-CursoAlura-Site/tio%20Receitas/index.html)](https://github.com/luciancardoso/Projeto-CursoAlura-Site/blob/main/tio%20Receitas/tioreceitas.PNG)
